@@ -1,2 +1,3 @@
-# laravel_articles_translate
-Translation of articles about laravel
+# Переводы статей о Laravel на русский
+Для сообщества LaravelRus
+ 
