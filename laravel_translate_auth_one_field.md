@@ -1,4 +1,4 @@
-# source: http://laraveldaily.com/laravel-login-email-username-one-field/ 
+source: http://laraveldaily.com/laravel-login-email-username-one-field/ 
 
 Laravel Auth: Аутентификация через логин или email (используя одно поле).
 
